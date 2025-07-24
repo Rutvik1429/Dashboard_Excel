@@ -81,6 +81,7 @@ This dashboard presents a comprehensive annual performance analysis of AR Store 
 - Returns and refunds are minimal compared to total deliveries.
 
 ---
+---
 
 # 🚲 Bike Sales Dashboard
 
@@ -89,7 +90,7 @@ This dashboard provides a detailed analysis of bike sales based on demographic, 
 
 ## 🖼️ Dashboard Preview
 
-![Bike Sales Dashboard]()
+![Bike Sales Dashboard](https://github.com/Rutvik1429/Dashboard_Excel/blob/main/Bike%20Sales%20Analysis%20Dashboard.png)
 
 
 ## 🎯 Dashboard Filters
