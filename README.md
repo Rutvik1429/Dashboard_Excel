@@ -145,7 +145,7 @@ These filters allow users to drill down into specific customer segments.
 
 This dashboard shows the full sales performance of the FNP (Ferns N Petals) company. It includes sales by product, city, occasion, and more. You can use this dashboard to understand which products sell best, which cities have the most orders, and how much revenue comes in each month.
 
-![Bike Sales Dashboard]()
+![FNP Company Sales Dashboard](https://github.com/Rutvik1429/Dashboard_Excel/blob/main/FNP%20Company%20Sales%20Analysis%20Dashboard.png)
 
 
 ## 🎯 Objective
