@@ -138,6 +138,92 @@ These filters allow users to drill down into specific customer segments.
 - Bike sales are higher in regions with shorter commute distances.
 - Marketing campaigns can be optimized for **middle-aged, high-income segments**, especially in **urban regions**.
 
+---
+---
+
+# 🎁 FNP Company Sales Dashboard
+
+This dashboard shows the full sales performance of the FNP (Ferns N Petals) company. It includes sales by product, city, occasion, and more. You can use this dashboard to understand which products sell best, which cities have the most orders, and how much revenue comes in each month.
+
+![Bike Sales Dashboard]()
+
+
+## 🎯 Objective
+
+The goal of this dashboard is to:
+- Track total orders and revenue
+- Find top-performing products and cities
+- Understand revenue by month and occasion
+- Help teams make better decisions with clear visuals
+
+
+## 🧾 KPI Cards (Top Summary)
+
+| KPI | Value | Description |
+|-----|-------|-------------|
+| **Total Order** | `1000` | Total number of orders received |
+| **Total Revenue** | `₹ 35,20,984` | Total sales revenue |
+| **Order / Delivery Time** | `5.53 Hours` | Average time taken to deliver an order |
+| **Average Customer Spent** | `₹ 3,520.98` | How much one customer spends on average |
+
+
+## 🎛️ Filters / Slicers (Right Side)
+
+- **Delivery Date**: Choose the month of delivery (2024)
+- **Order Date**: Choose the order month (2023)
+- **Category**: Select product categories like Cake, Mugs, Plants, Colors
+- **Occasion**: Select by event like Anniversary, Birthday, Diwali, etc.
+
+You can use these filters to view data for specific time periods or product types.
+
+
+## 📊 Chart Details
+
+### 1. **Total Revenue by Month**
+- Shows how much money was earned each month.
+- February and August have the highest sales.
+
+### 2. **Top 5 Products**
+- Lists top 5 products by revenue:
+  - Magnum Set, Quia Gift, Dolores Gift, Harum Pack, Deserunt Box
+
+### 3. **Top 5 Product Orders (Pie Chart)**
+- Shows % of orders for 5 top products.
+- Quia Gift and Et Set both have 22.69% order share.
+
+### 4. **Top 5 Order Cities**
+- Cities with the most orders:
+  - Imphal (29), Dhanbad (28), Kavali (27), etc.
+
+### 5. **Occasion by Revenue**
+- Shows how much money was made on different occasions.
+- Highest revenue from **Anniversary** and **Raksha Bandhan**.
+
+### 6. **Best Product Revenue (Line Chart)**
+- Displays top categories by revenue.
+- Colors, Soft Toys, and Sweets perform best.
+
+
+## 🧠 Key Insights
+
+- Customers spend over ₹3,500 on average.
+- The fastest-selling products are Magnum Set and Quia Gift.
+- February and August are strong sales months.
+- Revenue increases on special occasions like Raksha Bandhan and Anniversary.
+- Imphal and Dhanbad are high-order cities.
+
+
+## 🛠️ Built With
+
+- Microsoft Excel
+  - Pivot charts and tables
+  - Slicers
+  - KPI cards
+  - Line, bar, and pie charts
+
+
+
+
 
 
 
