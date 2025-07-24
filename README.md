@@ -6,7 +6,7 @@ Here,, I would like to share my practice dashboard in Excel. This dashboard are 
 
 This dashboard presents a comprehensive annual performance analysis of AR Store across various dimensions including orders, sales, gender and age demographics, channels, categories, and geographic regions. It enables stakeholders to evaluate key business metrics, customer behaviors, and sales patterns.
 
-![AR Store Dashboard]()
+![AR Store Dashboard](https://github.com/Rutvik1429/Dashboard_Excel/blob/main/AR%20Store%20Sales%20Analysis%20Dashboard.png)
 
 
 ## 🔧 Tools Used
@@ -21,7 +21,6 @@ This dashboard presents a comprehensive annual performance analysis of AR Store 
 - **Category**: Filter by clothing categories such as Saree, Set, Top, Western Dress, etc.
 - **Channel**: Select e-commerce platforms like Ajio, Amazon, Flipkart, Meesho, Myntra, etc.
 
----
 
 ## 📈 Charts and Analysis
 
@@ -33,7 +32,6 @@ This dashboard presents a comprehensive annual performance analysis of AR Store 
   - Returned: 844
 - Helps in understanding delivery performance and return/refund rates.
 
----
 
 ### 3. **Sales: Men vs Women (Pie Chart)**
 - Shows gender-wise sales share:
@@ -41,7 +39,6 @@ This dashboard presents a comprehensive annual performance analysis of AR Store 
   - Men: 36%
 - Indicates that women are the dominant customer segment.
 
----
 
 ### 4. **Orders vs Sales (Combo Chart - Line + Bar)**
 - **Line**: Count of Orders per month.
@@ -50,7 +47,6 @@ This dashboard presents a comprehensive annual performance analysis of AR Store 
   - Peak order count in March (2,819).
   - Sales show a declining trend post-August.
 
----
 
 ### 5. **Order Channels (Donut Chart)**
 - Shows the percentage of orders from each online platform:
@@ -60,7 +56,6 @@ This dashboard presents a comprehensive annual performance analysis of AR Store 
   - Others: Minor channels like Myntra, Meesho, Nalli, etc.
 - Useful for marketing and inventory planning.
 
----
 
 ### 6. **Order: Age vs Gender (Bar Chart)**
 - Analyzes order volume by age group and gender:
