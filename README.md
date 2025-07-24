@@ -6,7 +6,13 @@ Here,, I would like to share my practice dashboard in Excel. This dashboard are 
 
 This dashboard presents a comprehensive annual performance analysis of AR Store across various dimensions including orders, sales, gender and age demographics, channels, categories, and geographic regions. It enables stakeholders to evaluate key business metrics, customer behaviors, and sales patterns.
 
----
+![AR Store Dashboard]()
+
+
+## 🔧 Tools Used
+- Microsoft Excel (for dashboard design)
+- Pivot Tables, Slicers, and Charts
+- Data from e-commerce channels and sales reports
 
 ## 📊 Dashboard Overview
 
@@ -61,7 +67,6 @@ This dashboard presents a comprehensive annual performance analysis of AR Store 
   - Adult women form the largest customer base (34.59%).
   - Teenage girls and adult men are secondary audiences.
 
----
 
 ### 7. **Sales: Top 5 States (Horizontal Bar Chart)**
 - Top contributing states by sales amount:
@@ -72,7 +77,6 @@ This dashboard presents a comprehensive annual performance analysis of AR Store 
   - **Tamil Nadu**: ₹1.68M
 - Useful for regional performance targeting and expansion planning.
 
----
 
 ## 📌 Key Insights
 - Women's products dominate both in order volume and sales.
@@ -81,9 +85,8 @@ This dashboard presents a comprehensive annual performance analysis of AR Store 
 - Maharashtra leads in regional sales, suggesting a strong customer base there.
 - Returns and refunds are minimal compared to total deliveries.
 
----
 
-## 📂 File Structure
+
 
 
 
