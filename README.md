@@ -80,6 +80,67 @@ This dashboard presents a comprehensive annual performance analysis of AR Store 
 - Maharashtra leads in regional sales, suggesting a strong customer base there.
 - Returns and refunds are minimal compared to total deliveries.
 
+---
+
+# 🚲 Bike Sales Dashboard
+
+This dashboard provides a detailed analysis of bike sales based on demographic, geographic, and behavioral data. It helps stakeholders understand customer purchasing patterns, income levels, age group trends, and commuting behavior to make better marketing and product decisions.
+
+
+## 🖼️ Dashboard Preview
+
+![Bike Sales Dashboard]()
+
+
+## 🎯 Dashboard Filters
+
+The filters on the left side help slice and analyze the data based on:
+
+- **Marital Status**: Marital or Single
+- **Education**: Includes High School, Partial College, Graduate Degree, etc.
+- **Region**: Europe, North America, Pacific
+
+These filters allow users to drill down into specific customer segments.
+
+
+## 📊 Charts and Detailed Insights
+
+### 1. **Avg Income Per Purchase (Bar Chart with Table)**
+- Compares average income per purchase by gender and purchase decision.
+- Observations:
+  - **Males who purchased**: ₹60,124
+  - **Females who purchased**: ₹55,774
+  - Customers who made a purchase generally have higher average incomes than those who didn’t.
+
+
+### 2. **Customer Age Brackets (Line Chart)**
+- Breaks down the number of customers by **age group** and **gender**.
+- Age Brackets: Adolescent, Middle Age, Old
+- Insights:
+  - Most purchases are made by **middle-aged males (354)** and **females (347)**.
+  - Very few purchases come from adolescents and older customers.
+
+
+### 3. **Customer Commute (Line Chart)**
+- Tracks the relationship between commute distance and bike purchases.
+- Categories: 0–1 miles, 1–2 miles, 2–5 miles, 5–10 miles, 10+ miles
+- Observations:
+  - Majority of customers who purchased bikes commute within **0–1 miles**.
+  - Fewer purchases come from long-distance commuters (10+ miles).
+  - People with **shorter commutes** are more likely to purchase bikes.
+
+
+## 💡 Key Takeaways
+
+- Income and purchase behavior are closely linked.
+- Middle-aged individuals are the most active buyers.
+- Bike sales are higher in regions with shorter commute distances.
+- Marketing campaigns can be optimized for **middle-aged, high-income segments**, especially in **urban regions**.
+
+
+
+
+
 
 
 
