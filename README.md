@@ -220,6 +220,67 @@ You can use these filters to view data for specific time periods or product type
   - Slicers
   - KPI cards
   - Line, bar, and pie charts
+ 
+
+---
+---
+
+# ☕ Coffee Shop Sales Dashboard
+
+![Coffee shop sales dashboard]()
+
+## 📌 Overview
+
+This Power BI dashboard provides a comprehensive view of the sales and customer activity for a coffee shop chain. It showcases key performance indicators (KPIs), product performance, store comparison, and time-based trends to help understand customer behavior and sales patterns.
+
+## 🎯 Objective
+
+- To analyze overall sales, footfall, and order patterns.
+- To identify the top-performing products and store locations.
+- To monitor hourly and daily sales trends.
+- To examine customer preferences based on product category and order size.
+- To assist business stakeholders in making data-driven decisions to boost sales and improve customer satisfaction.
+
+## 🧰 Tools & Technologies Used
+
+- **Power BI Desktop**
+- **DAX (Data Analysis Expressions)**
+- **Power Query**
+- **MS Excel** (Data Source)
+
+## 📊 Key KPIs
+
+- **Total Sales**: $698.8M  
+- **Total Footfall**: 149.1K  
+- **Average Bill per Person**: $4.69  
+- **Average Order Size**: 1.44  
+
+## 📈 Dashboard Features
+
+| Visualization | Description |
+|---------------|-------------|
+| **Line Chart** | Shows quantity ordered by hour to highlight peak sales times. |
+| **Pie Chart** | Displays product category distribution percentages. |
+| **Donut Chart** | Represents % size distribution of orders (Large, Regular, Small). |
+| **Bar Charts** | Used for: top 5 products by sales, store-wise footfall and revenue, and daily order/sales comparison. |
+| **Slicers** | Day and Month slicers for filtering insights by time. |
+
+## 🔍 Insights
+
+- **Peak Hours**: Highest quantity of orders placed between 8 AM to 10 AM.
+- **Top Category**: Coffee contributes the most to total sales (39%), followed by Packaged Chocolate (28%).
+- **Order Size**: Large and Regular size drinks dominate customer orders.
+- **Store Performance**: Hell's Kitchen has the highest total sales ($236.5M) and footfall (50.7K).
+- **Top Product**: Barista Espresso leads sales with $91.4K.
+- **Weekday Trends**: Monday and Friday have the highest sales and number of orders.
+
+## ✅ Conclusion
+
+This dashboard delivers actionable insights for coffee shop management to optimize inventory, staffing, and marketing strategies. By monitoring product performance and customer behavior, stakeholders can focus on high-demand time slots and popular products to increase revenue and enhance customer experience.
+
+---
+
+
 
 
 
