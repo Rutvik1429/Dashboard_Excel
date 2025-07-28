@@ -227,7 +227,7 @@ You can use these filters to view data for specific time periods or product type
 
 # ☕ Coffee Shop Sales Dashboard
 
-![Coffee shop sales dashboard]()
+![Coffee shop sales dashboard](https://github.com/Rutvik1429/Dashboard_Excel/blob/main/Coffee%20Shop%20Sales%20Analysis%20Dashboard.png)
 
 ## 📌 Overview
 
