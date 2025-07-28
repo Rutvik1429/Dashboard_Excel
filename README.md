@@ -231,7 +231,7 @@ You can use these filters to view data for specific time periods or product type
 
 ## 📌 Overview
 
-This Power BI dashboard provides a comprehensive view of the sales and customer activity for a coffee shop chain. It showcases key performance indicators (KPIs), product performance, store comparison, and time-based trends to help understand customer behavior and sales patterns.
+This Excel dashboard provides a comprehensive view of the sales and customer activity for a coffee shop chain. It showcases key performance indicators (KPIs), product performance, store comparison, and time-based trends to help understand customer behavior and sales patterns.
 
 ## 🎯 Objective
 
@@ -243,8 +243,7 @@ This Power BI dashboard provides a comprehensive view of the sales and customer 
 
 ## 🧰 Tools & Technologies Used
 
-- **Power BI Desktop**
-- **DAX (Data Analysis Expressions)**
+- **Pivot table**
 - **Power Query**
 - **MS Excel** (Data Source)
 
@@ -278,7 +277,6 @@ This Power BI dashboard provides a comprehensive view of the sales and customer 
 
 This dashboard delivers actionable insights for coffee shop management to optimize inventory, staffing, and marketing strategies. By monitoring product performance and customer behavior, stakeholders can focus on high-demand time slots and popular products to increase revenue and enhance customer experience.
 
----
 
 
 
